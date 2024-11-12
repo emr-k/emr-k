@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Emre Kayaküçük, a software engineering student
 <!--
 **emr-k/emr-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
